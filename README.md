@@ -73,4 +73,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Inspired by the simplicity of Django and the elegance of RESTful API design.
 - Special thanks to the Django community for their valuable contributions and resources.
-- Built with ❤️ by [Shri Krishan] 
+- Built with ❤️ by [Shri Krishan]
+
+## Live Demo
+
+[click me](https://simplerestapi.onrender.com/)
+
+## Screenshots
+
+![Screenshot (39)](https://github.com/krissh6563-droid/SimpleRestAPI/assets/56572543/cc8648d8-a556-40c3-b39c-0a539402ac42)
+
